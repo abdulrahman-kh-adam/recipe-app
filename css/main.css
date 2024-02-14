@@ -147,7 +147,7 @@ main {
 @media (max-width: 767px) {
     .results-area {
         width: 100%;
-        margin-top: 20vh;
+        margin-top: 30vh;
         flex-direction: column;
     }
     .results-area > div {
@@ -204,5 +204,6 @@ main {
 @media (max-width: 767px) {
     .recipe-details {
         width: 100%;
+        padding-top: 30px;
     }
 }
